@@ -18,7 +18,6 @@ import java.util.StringTokenizer;
  * @author USER
  */
 public class ReadCSV {
-
         static String csvFilePath = "qzAjJo.csv";
 	public static void main(String args[]) {
              loadFile(csvFilePath);
